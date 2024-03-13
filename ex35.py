@@ -16,7 +16,7 @@ def gold_room():
         exit(0)
     # if how much is less than 50 
     else:
-        dead("You greedy bastard! You Lose")
+        dead("You greedy bastard! You")
         #if more than 50 you "die"
 
 def bear_room():
