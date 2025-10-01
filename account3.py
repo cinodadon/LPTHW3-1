@@ -1,3 +1,4 @@
+#tried to make a trial balance for school
 class TrialBalance:
     def __init__(self, account_name, debit=0, credit=0):
         self.account_name = account_name
